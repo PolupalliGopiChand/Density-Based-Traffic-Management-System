@@ -1,6 +1,7 @@
 # About Wokwi Simulator
 
-To validate and simulate the operation of the Density-Based Traffic Management System, we used the Wokwi Simulator. This powerful tool allows for testing and visualizing embedded systems on a web platform, eliminating the need for physical hardware. The simulation environment offers a reliable foundation for designing, debugging, and evaluating the system's performance in real-time scenarios. Wokwi is a free online simulator that allows users to simulate electronic circuits and embedded systems. It can be used to simulate boards, parts, and sensors like Arduino, ESP32, and STM32. Wokwi can also be used for automated testing of embedded firmware. 
+To validate and simulate the operation of the Density-Based Traffic Management System, we used the Wokwi Simulator. This powerful tool allows for testing and visualizing embedded systems on a web platform, eliminating the need for physical hardware. Wokwi is a free online simulator that allows users to simulate electronic circuits and embedded systems. It can be used to simulate boards like Arduino, ESP32, and STM32.
+
 Features:
 - Simulate projects: Users can simulate projects that use development boards like Arduino UNO, ESP32, and Raspberry Pi Pico. 
 - Define board behaviour: Users can define the behaviour of the development board using source code. 
