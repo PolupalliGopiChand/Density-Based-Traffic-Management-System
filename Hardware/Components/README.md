@@ -6,12 +6,12 @@ The brain of this traffic signalling system is the central microcontroller, the 
 ---
 
 ## 2. Ultrasonic Sensors (HC-SR04)
-[Ultrasonic Sensors (HC-SR04)](./Ultrasonic_Sensors_(HC-SR04).png) rely on the ultrasonic principle to detect the presence and distance of objects (vehicles). With two sensors for each road, the system can read traffic density, either low traffic density or high traffic density. In real-time, their data leads to a respective traffic signal change. It provides vital insights into adaptive signal timing for reducing congestion and thus minimizes idle time.
+The [Ultrasonic Sensors (HC-SR04)](./Ultrasonic_Sensors_(HC-SR04).png) rely on the ultrasonic principle to detect the presence and distance of objects (vehicles). With two sensors for each road, the system can read traffic density, either low traffic density or high traffic density. In real-time, their data leads to a respective traffic signal change. It provides vital insights into adaptive signal timing for reducing congestion and thus minimizes idle time.
 
 ---
 
 ## 3. Four Seven-Segment Displays (TM1637)
-[Four Seven-Segment Display (TM1637)](./Four_Seven_Segment_Displays_(TM1637).png) displays indicate the countdown timer for each road, conveying the remaining signal time for drivers. These displays are controlled by the Arduino Mega, which allows them to change dynamically with traffic density readings from sensors. An appealing user interface further enhances road safety and predictability.
+The [Four Seven-Segment Display (TM1637)](./Four_Seven_Segment_Displays_(TM1637).png) displays indicate the countdown timer for each road, conveying the remaining signal time for drivers. These displays are controlled by the Arduino Mega, which allows them to change dynamically with traffic density readings from sensors. An appealing user interface further enhances road safety and predictability.
 
 ---
 
