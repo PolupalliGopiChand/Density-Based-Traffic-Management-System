@@ -2,7 +2,7 @@
 
 ## 1. Arduino Mega 2560
 The brain of this traffic signalling system is the central microcontroller, the Arduino Mega, managing traffic signals on-road intersections. The Arduino Mega in this project is responsible for collecting traffic data from ultrasonic sensors and performing LEDs and seven-segment display operations. With its multiple I/O pins, it suits the needs of a four-road setup. The logic for the signal timing takes into account the crowd at different crossroads. The whole software code for the system is written for the Arduino Mega, which makes it distinctively the mainstay for any embedded traffic signalling project. 
-[Arduino Mega 2560 Image](/Arduino-Mega-2560)  
+[Arduino Mega 2560 Image](/Arduino-Mega-2560.jpg)  
 ---
 
 ## 2. Ultrasonic Sensors (HC-SR04)
