@@ -1,4 +1,4 @@
-# Traffic Management System Code
+# Traffic Management System for Single Road Code
 
 ## Overview
 This Arduino-based project dynamically controls traffic signals based on real-time vehicle detection using ultrasonic sensors. It uses LEDs to represent traffic lights and a TM1637 7-segment display to show countdown timers for signal durations.
