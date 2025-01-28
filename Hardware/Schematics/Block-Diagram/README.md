@@ -1,6 +1,6 @@
 # Block Diagram for Single Road
 
-This [Block Diagram](./DBTMS-Block-Diagram-for-Single-road.JPG) is designed to sense whether a vehicle is present and to measure the distance to any object within its range. For a single road, there are three possible conditions: 
+This [Block Diagram](./Single-Road/DBTMS-Block-Diagram-for-Single-road.JPG) is designed to sense whether a vehicle is present and to measure the distance to any object within its range. For a single road, there are three possible conditions: 
 
 1. If only the first sensor detects a vehicle, it indicates low traffic density, and the Arduino will allocate less time for traffic clearing.
 2. If both sensors detect vehicles, it signifies higher traffic volume, prompting the system to adjust and allocate more time to clear the road.
@@ -12,7 +12,7 @@ This system ensures that road operations are always aligned with real-time traff
 
 # Block Diagram for Complete System
 
-This [Block Diagram](./DBTMS-Block-Diagram-for-all-roads.JPG) consists of four road modules, each equipped with ultrasonic sensors, red, yellow, and green LEDs, and four seven-segment displays functioning as timers. All these components are connected to an Arduino Mega microcontroller, which serves as the central controller for processing sensor data and activating the corresponding light sequences and timers for each road. 
+This [Block Diagram](./Complete-System/DBTMS-Block-Diagram-for-all-roads.JPG) consists of four road modules, each equipped with ultrasonic sensors, red, yellow, and green LEDs, and four seven-segment displays functioning as timers. All these components are connected to an Arduino Mega microcontroller, which serves as the central controller for processing sensor data and activating the corresponding light sequences and timers for each road. 
 
 The roads operate in a sequenced manner based on four specific conditions:
 
