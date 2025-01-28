@@ -8,6 +8,7 @@ This [Block Diagram](./DBTMS-Block-Diagram-for-Single-road.JPG) is designed to s
 
 This system ensures that road operations are always aligned with real-time traffic conditions.
 
+---
 
 # Block Diagram for Complete System
 
@@ -21,3 +22,5 @@ The roads operate in a sequenced manner based on four specific conditions:
 4. If any road shows no traffic detected, the system will skip it, reducing unnecessary waiting time and enhancing the efficiency of the traffic signals.
 
 This timer system provides a more user-friendly experience, increasing predictability. The dynamic adjustments to traffic conditions create a comprehensive system that improves urban traffic management, reducing congestion, fuel consumption, and emissions.
+
+---
