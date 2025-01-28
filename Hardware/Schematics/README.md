@@ -7,7 +7,7 @@ This directory contains important visual representations for the **Density-Based
    - Visual representation of the system components and their connections.
    - Includes both single-road and complete-system setups.
 
-[2. **Flowchart**](./Flowchart)
+[2. **Flowchart**](./FlowChart)
    - Describes the logical flow of traffic signal management based on traffic density.
 
 ## Usage
