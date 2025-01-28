@@ -1,6 +1,6 @@
 # Block Diagram for Complete System
 
-The system consists of four road modules, each equipped with ultrasonic sensors, red, yellow, and green LEDs, and four seven-segment displays functioning as timers. All these components are connected to an Arduino Mega microcontroller, which serves as the central controller for processing sensor data and activating the corresponding light sequences and timers for each road. 
+This [Block Diagram](./DBTMS-Block-Diagram-for-all-roads.JPG) consists of four road modules, each equipped with ultrasonic sensors, red, yellow, and green LEDs, and four seven-segment displays functioning as timers. All these components are connected to an Arduino Mega microcontroller, which serves as the central controller for processing sensor data and activating the corresponding light sequences and timers for each road. 
 
 The roads operate in a sequenced manner based on four specific conditions:
 
