@@ -6,7 +6,7 @@ This directory contains the source code for the **Density-Based Traffic Manageme
 
 ## Contents
 1. **[Single Road Code](./Single-Road/DBTMS_for_Single_Road.ino)**  
-2. **[Complete System Code](./Complete-System/DBTMS_for_complete-road.ino)**
+2. **[Complete System Code](./Complete-System/DBTMS_for_Complete-Road.ino)**
 
 ---
 
