@@ -1,4 +1,4 @@
-# Final Prototype Demo
+# Final Prototype Demonstration 
 
 ## Overview
 This video demonstrates the fully operational **Density-Based Traffic Management System** in action. The prototype dynamically controls traffic signals based on real-time traffic density, using ultrasonic sensors, LEDs, and TM1637 displays.
@@ -18,7 +18,7 @@ This video demonstrates the fully operational **Density-Based Traffic Management
 ---
 
 ## How to Watch
-[Click here to watch the Final Prototype Demo](https://youtu.be/VrdO2JIbczU)  
+[Click here to watch the Final Prototype Demonstration ](https://youtu.be/VrdO2JIbczU)  
 
 ---
 
