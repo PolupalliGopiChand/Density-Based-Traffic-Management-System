@@ -25,10 +25,10 @@ This simulation showcases the operation of the **Density-Based Traffic Managemen
 
 ## To See the Results of Simulation:
 1. **No Traffic:**
-  - **For All Roads:** [Figure1](SIM-for-Complete-System-all-roads-No-Density-1.png), [Figure2](SIM-for-Complete-System-all-roads-No-Density-2.png)
-  - **For Single Roads:** [Figure1](SIM-for-Complete-System-No-Density-1.png), [Figure2](SIM-for-Complete-System-No-Density-2.png), [Figure3](SIM-for-Complete-System-No-Density-3.png), [Figure4](SIM-for-Complete-System-No-Density-4.png), [Figure5](SIM-for-Complete-System-No-Density-5.png), [Figure6](SIM-for-Complete-System-No-Density-6.png)
-3. **Low Traffic Density:** [Figure1](SIM-for-Complete-System-Low-Density-1.png), [Figure2](SIM-for-Complete-System-Low-Density-2.png)
-4. **High Traffic Density:** [Figure1](SIM-for-Complete-System-High-Density-1.png), [Figure2](SIM-for-Complete-System-High-Density-2.png)
+   - **For All Roads:** [Figure1](SIM-for-Complete-System-all-roads-No-Density-1.png), [Figure2](SIM-for-Complete-System-all-roads-No-Density-2.png)
+   - **For Single Roads:** [Figure1](SIM-for-Complete-System-No-Density-1.png), [Figure2](SIM-for-Complete-System-No-Density-2.png), [Figure3](SIM-for-Complete-System-No-Density-3.png), [Figure4](SIM-for-Complete-System-No-Density-4.png), [Figure5](SIM-for-Complete-System-No-Density-5.png), [Figure6](SIM-for-Complete-System-No-Density-6.png)
+2. **Low Traffic Density:** [Figure1](SIM-for-Complete-System-Low-Density-1.png), [Figure2](SIM-for-Complete-System-Low-Density-2.png)
+3. **High Traffic Density:** [Figure1](SIM-for-Complete-System-High-Density-1.png), [Figure2](SIM-for-Complete-System-High-Density-2.png)
 
 [View Simulation on Wokwi](https://wokwi.com/projects/405022530674197505)
 
