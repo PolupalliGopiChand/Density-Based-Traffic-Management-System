@@ -20,10 +20,12 @@ This simulation demonstrates the functionality of the **Density-Based Traffic Ma
 
 ---
 
-## To See the Results Images:
+## To See the Results of Simulation:
 1. **No Traffic:** [Figure1](SIM-for-Single-Road-No-Density-1.png), [Figure2](SIM-for-Single-Road-No-Density-2.png)
 2. **Low Traffic Density:** [Figure1](SIM-for-Single-Road-Low-Density-1.png), [Figure2](SIM-for-Single-Road-Low-Density-2.png)
 3. **High Traffic Density:** [Figure1](SIM-for-Single-Road-High-Density-1.png), [Figure2](SIM-for-Single-Road-High-Density-2.png)
+
+[View Simulation on Wokwi](https://wokwi.com/projects/405173759534608385)
 
 ---
 
